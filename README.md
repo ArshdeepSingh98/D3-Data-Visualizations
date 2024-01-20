@@ -28,8 +28,9 @@ The project aims to develop an interactive data visualization of the global deve
 This project showcases my custom made visualization that is not part of any standard library. In the visualization, it showcases the fate of the soviet dogs in space while they were on mission. It's a dynamic and interactive user experience where they can choose a specific year and see the space shuttle revolving in action.
 
 ## Dataset
-- [Soviet Space Dogs](https://www.airtable.com/universe/expG3z2CFykG1dZsp/soviet-space-dogs)
-![Space Dogs Image](image-1.png)
+<img src="image-1.png" alt="Space Dogs Dataset" width="250">
+
+[Soviet Space Dogs](https://www.airtable.com/universe/expG3z2CFykG1dZsp/soviet-space-dogs)
 
 
 ## Links
